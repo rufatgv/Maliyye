@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace Maliyye {
+namespace Maliyye.DataSet {
     
     
     /// <summary>
@@ -612,7 +612,7 @@ namespace Maliyye {
         }
     }
 }
-namespace Maliyye.AgentDataSetTableAdapters {
+namespace Maliyye.DataSet.AgentDataSetTableAdapters {
     
     
     /// <summary>
